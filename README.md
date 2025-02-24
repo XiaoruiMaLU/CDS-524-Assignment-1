@@ -11,6 +11,7 @@ To play Tic Tac Toe against a computer player trained by playing 100,000 games a
 
 `python Tic_Tac_Toe_Human_vs_QPlayer.py` 
 
-
+## Demo Video
+Watch the demo video on [YouTube](https://youtu.be/1abRTwLivew).
 
 
